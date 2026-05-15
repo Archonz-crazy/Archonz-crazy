@@ -1,31 +1,87 @@
-## Hey there, I'm Mahikshit Kurapati 👋
-
-<h3> I'm an AI/ML Engineer currently working at Consolidated Communications. Recent grad from George Washington University</h3>
-
+# Hey there, I'm Mahikshit Kurapati 👋
+ 
+### AI/ML Engineer · Building Roshon AI @ Excelacom · GWU M.S. Data Science
+ 
 ---
-
+ 
 ### 👨‍💻 About Me
-
-- 🌟 **Current work:** Currently working on leveraging LLMs to create agents to automate businesses
-- 🏆 **Achievements:**  
-  - Developed and deployed a customer rep AI agent for a major telecommunications company that handles customer relations.
-  - Raised 100k $ at Intripid by working as a Founding Machine Learning Engineer and building AI and ML models to automate and make travel easy.
-- 🛠️ **Skills:** Python, JavaScript, C++, SQL, Machine Learning, NLP, LLM Fine-Tuning, AWS.  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
+ 
+- 🏢 **Currently:** AI Engineer at **Excelacom**, building **Roshon AI** — an enterprise agentic platform powered by multi-agent swarms, RAG pipelines, and a no-code **Agent Studio** that cuts agent creation time by **70%**
+- 🤖 **Focus:** LLM systems, multi-agent orchestration, RAG, and production ML pipelines
+- 🎓 **Education:** M.S. Data Science @ George Washington University (GPA: 3.8) · Columbian College Global Leaders Scholar
+- 🌍 Based in Falls Church, Virginia
+---
+ 
+### 🏆 Highlights
+ 
+- ⚡ Built a **multi-agent swarm** at Excelacom with a Master Orchestrator + specialized agents for Text-to-SQL, CRM/CPQ automation, and real-time validation
+- 🚀 Migrated CPU↔GPU communication from **FastAPI → gRPC**, achieving **6x** performance boost in a production ML pipeline
+- 📊 Migrated data summarization from **Pandas → Polars** (lazy eval + parallel processing) — **10x** faster on million-record datasets
+- 📞 Deployed an AI **Virtual Agent** at Consolidated Communications — **60%** reduction in customer handling time
+- 🧠 Built a **BERT intent classifier** hitting **96% accuracy** on telecom domain data
+- 💸 Helped raise **$100k** in investment at Intripid by building ML-powered travel recommendation systems
+- 🎯 Fine-tuned **Llama 3** on mental health guidelines from WHO + Reddit for a therapeutic companion chatbot
+---
+ 
+### 🛠️ Tech Stack
+ 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+ 
+**ML & Big Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+ 
+**Frameworks & APIs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
+ 
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+ 
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+ 
+---
+ 
+### 📌 Featured Projects
+ 
+| Project | Tech | Description |
+|---|---|---|
+| **Roshon AI / Agent Studio** | LangChain, OpenAI, gRPC, Polars, Azure | No-code enterprise agent creation platform with multi-agent swarms, RAG, and Text-to-SQL |
+| **Telecom Virtual Agent** | LangChain, GPT-4o, Twilio, PEGA, smolagents | AI customer support agent — 60% reduction in handling time |
+| **AI Travel Planner** | LangChain, Neo4j, MongoDB, Airflow | Multi-agent RAG fusion model for real-time itinerary generation |
+| **Therapeutic Companion Bot** | Llama3, PyTorch, HuggingFace, AWS | Fine-tuned LLM on WHO mental health guidelines + Reddit data |
+| **Audio Classification (RCI)** | PyTorch, Keras, W&B | Real-time target sound detection — 94.6% accuracy on 30K+ custom samples |
+ 
+---
+ 
+### 📈 GitHub Stats
+ 
 <p align="left">
-<a href="https://linkedin.com/in/mahikshitkurapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahikshitkurapati" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=archonz-crazy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archonz-crazy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archonz-crazy&label=Profile%20views&color=0e75b6&style=flat" alt="archonz-crazy" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archonz-crazy&show_icons=true&locale=en&layout=compact" alt="archonz-crazy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archonz-crazy&show_icons=true&locale=en" alt="archonz-crazy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archonz-crazy&" alt="archonz-crazy" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archonz-crazy" alt="archonz-crazy" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=archonz-crazy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+---
+ 
+### 🤝 Connect
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahikshitkurapati-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahikshitkurapati)
+[![Email](https://img.shields.io/badge/Email-mahikshitkurapati@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahikshitkurapati@gmail.com)
+ 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=archonz-crazy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
