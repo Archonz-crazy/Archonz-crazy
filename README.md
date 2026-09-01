@@ -72,10 +72,10 @@ Copy
 ### 📈 GitHub Stats
  
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=archonz-crazy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mahikshitk&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archonz-crazy&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahikshitk&theme=tokyonight" alt="Profile Summary" />
 </p>
 ---
  
@@ -85,5 +85,5 @@ Copy
 [![Email](https://img.shields.io/badge/Email-mahikshitkurapati@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahikshitkurapati@gmail.com)
  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=archonz-crazy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mahikshitk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
